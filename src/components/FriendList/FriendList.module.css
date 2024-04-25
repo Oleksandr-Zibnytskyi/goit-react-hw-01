@@ -8,6 +8,7 @@ ul {
     gap: 12px;
     width: 458px;
     margin: 0 auto;
+    padding: 0;
     background-color: white;
 }
 
